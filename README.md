@@ -12,8 +12,14 @@ Projekt obsahuje:
   - soubor s uloženým výstupem (pro ukázku: benesov.csv)
 
 Nejdříve je nutno nainstalovat knihovny ze seznamu. V tomto případě requests a beautifulsoup.
+
+
 Pro instalaci pomocí pip v terminálu: 
+
+
 pip install beautifulsoup4 
+
+
 pip install requests
 
 
